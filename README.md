@@ -8,7 +8,7 @@ Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
 git clone git@github.com:tahirs95/us_counties_nodejs.git # or clone your own fork
-cd RESTful-NodeJS-MongoDB
+cd us_counties_nodejs
 npm install
 node index.js
 ```
