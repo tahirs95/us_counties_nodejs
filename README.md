@@ -13,6 +13,15 @@ npm install
 node index.js
 ```
 
+## Running using Docker Compose
+
+
+```sh
+git clone git@github.com:tahirs95/us_counties_nodejs.git # or clone your own fork
+cd us_counties_nodejs
+docker compose up
+```
+
 Your app should now be running on [localhost:3000](http://localhost:3000/).
 
 ## Running Tests
